@@ -32,7 +32,7 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 Run the Application
 
 To launch the Streamlit application:
